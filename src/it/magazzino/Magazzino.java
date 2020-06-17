@@ -2,6 +2,6 @@ package it.magazzino;
 
 public class Magazzino {
   
-  priva String nome = "mio magazzino";
+  private String nome = "mio magazzino";
 
 }
