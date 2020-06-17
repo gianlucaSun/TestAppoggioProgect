@@ -10,4 +10,5 @@ public class Management {
 	 
   private int age;	
 
+  private String chiosco; 
 }
