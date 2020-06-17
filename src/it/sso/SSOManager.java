@@ -5,5 +5,7 @@ public class SSOManager {
 	private String url;
 	
 	private String gruppo;
+	
+	private String sede;
 
 }
