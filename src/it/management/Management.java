@@ -8,6 +8,8 @@ public class Management {
   
   private boolean connettore;
 	 
-  private int age;	
+  private int age;
+	
+  private int auto;	
 
 }
